@@ -1,5 +1,0 @@
-# Fixes line ending issue with people who work in a devcontainer but check out the repo on Windows
-* text eol=lf
-
-images/* binary
-*.executable binary
